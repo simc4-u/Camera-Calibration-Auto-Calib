@@ -1,2 +1,3 @@
-# Camera-Calibration-Auto-Pano
+# Camera-Calibration-Auto-Calib
+
 Camera Calibration: Auto Pano
