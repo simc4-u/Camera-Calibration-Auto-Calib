@@ -10,6 +10,6 @@ camera intrinsics through a closed-form solution, then calculating
 extrinsic parameters for each image. Finally, these parameters,
 along with radial distortion coefficients, are refined using the
 Levenberg-Marquardt optimization algorithm to minimize re-
-projection error. The pipeline of the entire implementation can be found in the report below.
+projection error.The pipeline of the entire implementation can be found in the report below.
 
 Report Link: - https://drive.google.com/file/d/13HsdwWuA8Zq7M5G5mxl2rAoO3xD7zAqP/view?usp=sharing
