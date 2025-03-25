@@ -13,3 +13,5 @@ Levenberg-Marquardt optimization algorithm to minimize re-
 projection error.The pipeline of the entire implementation can be found in the report below.
 
 Report Link: - https://drive.google.com/file/d/13HsdwWuA8Zq7M5G5mxl2rAoO3xD7zAqP/view?usp=sharing
+![image](https://github.com/user-attachments/assets/55849825-eb71-4633-a34a-78fa4a577d71)
+
